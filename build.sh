@@ -45,5 +45,6 @@ rm -rf ./blur-my-shell@aunetx/build
 # Cleanup
 if [ -n "$CONTAINER" ]; then
     dnf5 -y remove glib2-devel
-    rm -rf ./stage
+    mkdir -p /usr/share/gnome-shell/extensions/
+    cp -r "./*@*" /usr/share/gnome-shell/extensions/
 fi
