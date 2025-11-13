@@ -1,5 +1,5 @@
 [submodule "blur-my-shell@aunetx"]
-	path = blur-my-shell@aunetx
+	path = stage/blur-my-shell
 	url = https://github.com/aunetx/blur-my-shell.git
 [submodule "logomenu@aryan_k"]
 	path = logomenu@aryan_k
@@ -26,7 +26,7 @@
 	path = desktop-cube@schneegans.github.com
 	url = https://github.com/Schneegans/Desktop-Cube.git
 [submodule "caffeine@patapon.info"]
-	path = caffeine@patapon.info
+	path = stage/caffeine
 	url = https://github.com/eonpatapon/gnome-shell-extension-caffeine.git
 [submodule "block-caribou-36@lxylxy123456.ercli.dev"]
 	path = block-caribou-36@lxylxy123456.ercli.dev
