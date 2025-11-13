@@ -46,5 +46,6 @@ rm -rf ./blur-my-shell@aunetx/build
 if [ -n "$CONTAINER" ]; then
     dnf5 -y remove glib2-devel
     mkdir -p /usr/share/gnome-shell/extensions/
-    cp -r "./*@*" /usr/share/gnome-shell/extensions/
+    rm -rf stage .git*
+    cp -r "./*" /usr/share/gnome-shell/extensions/
 fi
