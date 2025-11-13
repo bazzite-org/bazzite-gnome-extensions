@@ -1,0 +1,36 @@
+[submodule "blur-my-shell@aunetx"]
+	path = blur-my-shell@aunetx
+	url = https://github.com/aunetx/blur-my-shell.git
+[submodule "logomenu@aryan_k"]
+	path = logomenu@aryan_k
+	url = https://github.com/bazzite-org/Logomenu.git
+[submodule "compiz-windows-effect@hermes83.github.com"]
+	path = compiz-windows-effect@hermes83.github.com
+	url = https://github.com/hermes83/compiz-windows-effect.git
+[submodule "compiz-alike-magic-lamp-effect@hermes83.github.com"]
+	path = compiz-alike-magic-lamp-effect@hermes83.github.com
+	url = https://github.com/hermes83/compiz-alike-magic-lamp-effect.git
+[submodule "hotedge@jonathan.jdoda.ca"]
+	path = hotedge@jonathan.jdoda.ca
+	url = https://github.com/jdoda/hotedge.git
+[submodule "restartto@tiagoporsch.github.io"]
+	path = restartto@tiagoporsch.github.io
+	url = https://github.com/tiagoporsch/restartto.git
+[submodule "appindicatorsupport@rgcjonas.gmail.com"]
+	path = appindicatorsupport@rgcjonas.gmail.com
+	url = https://github.com/ubuntu/gnome-shell-extension-appindicator.git
+[submodule "burn-my-windows@schneegans.github.com"]
+	path = burn-my-windows@schneegans.github.com
+	url = https://github.com/Schneegans/Burn-My-Windows.git
+[submodule "desktop-cube@schneegans.github.com"]
+	path = desktop-cube@schneegans.github.com
+	url = https://github.com/Schneegans/Desktop-Cube.git
+[submodule "caffeine@patapon.info"]
+	path = caffeine@patapon.info
+	url = https://github.com/eonpatapon/gnome-shell-extension-caffeine.git
+[submodule "block-caribou-36@lxylxy123456.ercli.dev"]
+	path = block-caribou-36@lxylxy123456.ercli.dev
+	url = https://github.com/bazzite-org/cariboublocker.git
+[submodule "add-to-steam@pupper.space"]
+	path = add-to-steam@pupper.space
+	url = https://github.com/skullbite/gnome-add-to-steam.git
